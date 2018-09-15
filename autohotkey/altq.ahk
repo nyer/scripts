@@ -9,3 +9,9 @@ return
 
 !r::Send ^{F5}
 return
+
+!c::Send ^{c}
+return
+
+!v::Send ^{v}
+return
